@@ -1,2 +1,3 @@
-# core-recipe-manager-hls2
-Automated issue comment bot repository
+# Core Recipe Manager Hls2
+
+Automated issue comment bot repository.
